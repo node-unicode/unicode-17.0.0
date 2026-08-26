@@ -1,0 +1,1 @@
+export default /\uD81B[\uDEA0-\uDEB8\uDEBB-\uDED3]/;

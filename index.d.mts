@@ -12,6 +12,7 @@ declare const data: {
 	readonly Indic_Syllabic_Category: string[];
 	readonly Line_Break: string[];
 	readonly Grapheme_Cluster_Break: string[];
+	readonly Indic_Conjunct_Break: string[];
 	readonly Word_Break: string[];
 	readonly Sentence_Break: string[];
 	readonly Vertical_Orientation: string[];

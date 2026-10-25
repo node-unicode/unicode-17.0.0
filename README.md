@@ -411,10 +411,6 @@ import IdeographicCodePoints from '@unicode/unicode-17.0.0/Binary_Property/Ideog
 import IdeographicSymbols from '@unicode/unicode-17.0.0/Binary_Property/Ideographic/symbols.mjs';
 import IdeographicRegex from '@unicode/unicode-17.0.0/Binary_Property/Ideographic/regex.mjs';
 
-import InCBCodePoints from '@unicode/unicode-17.0.0/Binary_Property/InCB/code-points.mjs';
-import InCBSymbols from '@unicode/unicode-17.0.0/Binary_Property/InCB/symbols.mjs';
-import InCBRegex from '@unicode/unicode-17.0.0/Binary_Property/InCB/regex.mjs';
-
 import Join_ControlCodePoints from '@unicode/unicode-17.0.0/Binary_Property/Join_Control/code-points.mjs';
 import Join_ControlSymbols from '@unicode/unicode-17.0.0/Binary_Property/Join_Control/symbols.mjs';
 import Join_ControlRegex from '@unicode/unicode-17.0.0/Binary_Property/Join_Control/regex.mjs';
@@ -434,10 +430,6 @@ import MathRegex from '@unicode/unicode-17.0.0/Binary_Property/Math/regex.mjs';
 import Modifier_Combining_MarkCodePoints from '@unicode/unicode-17.0.0/Binary_Property/Modifier_Combining_Mark/code-points.mjs';
 import Modifier_Combining_MarkSymbols from '@unicode/unicode-17.0.0/Binary_Property/Modifier_Combining_Mark/symbols.mjs';
 import Modifier_Combining_MarkRegex from '@unicode/unicode-17.0.0/Binary_Property/Modifier_Combining_Mark/regex.mjs';
-
-import NFKC_Simple_CasefoldCodePoints from '@unicode/unicode-17.0.0/Binary_Property/NFKC_Simple_Casefold/code-points.mjs';
-import NFKC_Simple_CasefoldSymbols from '@unicode/unicode-17.0.0/Binary_Property/NFKC_Simple_Casefold/symbols.mjs';
-import NFKC_Simple_CasefoldRegex from '@unicode/unicode-17.0.0/Binary_Property/NFKC_Simple_Casefold/regex.mjs';
 
 import Noncharacter_Code_PointCodePoints from '@unicode/unicode-17.0.0/Binary_Property/Noncharacter_Code_Point/code-points.mjs';
 import Noncharacter_Code_PointSymbols from '@unicode/unicode-17.0.0/Binary_Property/Noncharacter_Code_Point/symbols.mjs';
@@ -2971,6 +2963,10 @@ import NewaCodePoints from '@unicode/unicode-17.0.0/Block/Newa/code-points.mjs';
 import NewaSymbols from '@unicode/unicode-17.0.0/Block/Newa/symbols.mjs';
 import NewaRegex from '@unicode/unicode-17.0.0/Block/Newa/regex.mjs';
 
+import No_BlockCodePoints from '@unicode/unicode-17.0.0/Block/No_Block/code-points.mjs';
+import No_BlockSymbols from '@unicode/unicode-17.0.0/Block/No_Block/symbols.mjs';
+import No_BlockRegex from '@unicode/unicode-17.0.0/Block/No_Block/regex.mjs';
+
 import Number_FormsCodePoints from '@unicode/unicode-17.0.0/Block/Number_Forms/code-points.mjs';
 import Number_FormsSymbols from '@unicode/unicode-17.0.0/Block/Number_Forms/symbols.mjs';
 import Number_FormsRegex from '@unicode/unicode-17.0.0/Block/Number_Forms/regex.mjs';
@@ -3926,6 +3922,24 @@ import VRegex from '@unicode/unicode-17.0.0/Grapheme_Cluster_Break/V/regex.mjs';
 import ZWJCodePoints from '@unicode/unicode-17.0.0/Grapheme_Cluster_Break/ZWJ/code-points.mjs';
 import ZWJSymbols from '@unicode/unicode-17.0.0/Grapheme_Cluster_Break/ZWJ/symbols.mjs';
 import ZWJRegex from '@unicode/unicode-17.0.0/Grapheme_Cluster_Break/ZWJ/regex.mjs';
+
+// `Indic_Conjunct_Break`:
+
+import ConsonantCodePoints from '@unicode/unicode-17.0.0/Indic_Conjunct_Break/Consonant/code-points.mjs';
+import ConsonantSymbols from '@unicode/unicode-17.0.0/Indic_Conjunct_Break/Consonant/symbols.mjs';
+import ConsonantRegex from '@unicode/unicode-17.0.0/Indic_Conjunct_Break/Consonant/regex.mjs';
+
+import ExtendCodePoints from '@unicode/unicode-17.0.0/Indic_Conjunct_Break/Extend/code-points.mjs';
+import ExtendSymbols from '@unicode/unicode-17.0.0/Indic_Conjunct_Break/Extend/symbols.mjs';
+import ExtendRegex from '@unicode/unicode-17.0.0/Indic_Conjunct_Break/Extend/regex.mjs';
+
+import LinkerCodePoints from '@unicode/unicode-17.0.0/Indic_Conjunct_Break/Linker/code-points.mjs';
+import LinkerSymbols from '@unicode/unicode-17.0.0/Indic_Conjunct_Break/Linker/symbols.mjs';
+import LinkerRegex from '@unicode/unicode-17.0.0/Indic_Conjunct_Break/Linker/regex.mjs';
+
+import NoneCodePoints from '@unicode/unicode-17.0.0/Indic_Conjunct_Break/None/code-points.mjs';
+import NoneSymbols from '@unicode/unicode-17.0.0/Indic_Conjunct_Break/None/symbols.mjs';
+import NoneRegex from '@unicode/unicode-17.0.0/Indic_Conjunct_Break/None/regex.mjs';
 
 // `Word_Break`:
 

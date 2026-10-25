@@ -1,0 +1,3 @@
+import decodeRanges from '../../decode-ranges.mjs';
+
+export default decodeRanges('wkVgkdHXHUTAGAACDghBAAPBiiTAGABAEg-AaTAGABAEghBAAQAiiTAPdCi5glrEgqTAPFDDCACBGCDMLAwbwgzprg0i1BFggQHg1dMBKC4I3KCCgjgsEBIJEhgPACFACBhfKjUa14kAODACAcwbMgjcABAo3JAABAAglwVJGBABHABAXjPAJgncAKgnwR_MAgh');
